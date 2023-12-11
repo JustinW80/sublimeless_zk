@@ -1,5 +1,14 @@
 # The Sublime-less Zettelkasten
 
+> ℹ Forked version updates
+> 
+> This fork of [renerocksai/sublimeless_zk](https://github.com/renerocksai/sublimeless_zk) diverges from `sublimeless_zk-pre-0.9`.
+> 
+> To fix [upstream issue 122, "Autobib does note generate with pandoc v2.11+"](https://github.com/renerocksai/sublimeless_zk/issues/122), I made this update to `autobib.py`:
+>
+> 
+
+
 This is a note taking app that enables clickable ID-based Wiki-style links, and #tags in your plain text (Markdown) documents.
 
 If you follow the (plain-text) Zettelkasten method (as proposed by [Zettelkasten.de](https://zettelkasten.de) or [takesmartnotes.com](http://takesmartnotes.com/#moreinfo)), this might appeal to you.
